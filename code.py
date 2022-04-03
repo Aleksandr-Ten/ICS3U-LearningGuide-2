@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Aleksandr Ten 
-# Created on: March 2022
+# Created on: April 2022
 # This program is the "Space Aliens" program on the PyBadge
 
 import ugame 
